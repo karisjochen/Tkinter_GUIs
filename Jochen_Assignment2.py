@@ -447,7 +447,6 @@ class StockGUI:
 root = Tk()
 root.title("Stock Price")
 api_key         = "demo"
-api_key         = "CK8FNM4QB629PDZL"
 # Paint Canvas Using Class StockGUI __init__()
 my_gui = StockGUI(root, api_key)
 # Display GUI
